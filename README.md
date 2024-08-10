@@ -1,16 +1,39 @@
-## Hi there 👋
+# $ echo "I am thou, and thou art I"
 
-<!--
-**Nychh/Nychh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://i.imgur.com/WEHxv1e.png" alt="Kagamine Len made by ImageFX" width="320" /> 
 
-Here are some ideas to get you started:
+ ```
+$ whoami
+nychh \ -. .. -.-. .... --- .-.. .- ...
+```
+ ```
+$ cat /etc/profile
+🎓 Computer Science Student | 🌈 Pan-tastic Coder | 🇧🇷
+```
+ ```
+$ ls ~/skills
+HTML  CSS  JavaScript  Python
+```
+ ```
+$ cat ~/learning.txt
+React  Vue.js  Java  Node.js
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+$ touhou .play "Bad Apple"
+```
+```
+$ ./vibing.exe
+```
+.
+
+.
+
+.
+
+ ```
+$ exit 
+Logging out... but remember,
+▲ Reality is an illusion, the universe is a hologram! Buy gold! Bye!
+```
+
