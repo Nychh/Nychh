@@ -1,6 +1,6 @@
 # $ echo "I am thou, and thou art I"
 
-<img align="left" src="https://i.imgur.com/WEHxv1e.png" alt="Kagamine Len made by ImageFX" width="320" /> 
+<img align="left" src="https://raw.githubusercontent.com/Nychh/Nychh/main/img/len.png" alt="Kagamine Len pixelado by ImageFX" width="320" /> 
 
  ```
 $ whoami
