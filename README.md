@@ -2,7 +2,7 @@
 
 
 
-<img align="left" src="https://raw.githubusercontent.com/Nychh/Nychh/main/img/len.png" alt="Kagamine Len pixelado by ImageFX" width="320" /> 
+<img align="left" src="https://raw.githubusercontent.com/Nychh/Nychh/main/img/n16.jpg" alt="Pixel art do N, não sei o autor :/" width="320" /> 
 
  ```
 $ whoami
